@@ -1,4 +1,4 @@
-# Physical.GG
+# 📍 프로젝트명 : Physical.GG
 
 ![메인 이미지](images/main.png)
 
