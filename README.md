@@ -54,9 +54,9 @@
 2. **‘피지컬 타입’ 분류 모델**
    - **K-Means 클러스터링** 적용
      - 최적 K 결정 기준: `k = 7`
-     - ![k 값 결정 기준](images/k_decide.png)
+     ![k 값 결정 기준](images/k_decide.png)
      - 각 군집(클러스터)의 양상 분석
-     - ![클러스터 시각화](image/cluster.png)
+     ![클러스터 시각화](images/cluster.png)
 
 ---
 
