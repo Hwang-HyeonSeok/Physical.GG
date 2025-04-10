@@ -1,6 +1,6 @@
 # Physical.GG
 
-![Physical.GG 로고](images/physical_gg_logo.png)
+!(images/physical_gg_logo.png)
 
 ## 🧩 프로젝트 개요
 
