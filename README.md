@@ -68,3 +68,10 @@
 | 시각화 / EDA | `seaborn` | 데이터 시각화 및 탐색 분석 |
 | 예측 모델 | `sklearn` | 모델 생성, GridSearch를 통한 하이퍼파라미터 튜닝, 성능 평가 |
 | 클러스터링 | `K-Means` | Physical Type 분류 모델 구성 |
+
+---
+
+## 📄 프로젝트 발표 자료 (PDF)
+
+👉 [발표 자료 보러가기](https://drive.google.com/file/d/1GORUFzM7BGt8DJzeCJixb4PDPxdcvPUL/view?usp=drive_link)
+
